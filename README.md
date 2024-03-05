@@ -1,6 +1,6 @@
 # LINK TO JSON: [HERE](https://raw.githubusercontent.com/qqwkk/csapi/main/data.json)
 
----
+
 
 # CSAPI
 
@@ -121,7 +121,7 @@ The JSON is layed out like this: (example for an **AWP | Dragon Lore**)
 }
 ```
 
----
+
 
 # MORE EXAMPLES:
 
