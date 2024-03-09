@@ -1,4 +1,4 @@
-# LINK TO JSON: [HERE](https://raw.githubusercontent.com/qqwkk/csapi/main/data.json)
+# LINK TO JSON: [HERE](https://raw.githubusercontent.com/qwkdev/csapi/main/data.json)
 
 
 
