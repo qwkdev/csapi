@@ -1,8 +1,4 @@
-# TODO: RE-RUN SCRAPER
-
 # JSON LINKS: [V2](https://raw.githubusercontent.com/qwkdev/csapi/main/data2.json), [V1](https://raw.githubusercontent.com/qwkdev/csapi/main/data.json)
-
----
 
 # V2 or V1?
 
@@ -18,7 +14,7 @@ V2 is useful for projects like games, that need a separate item for each exterio
 
 V1 is useful for projects that just need data for a skin (eg: float caps, gen code, etc...) although you can still get all the data for each element in V1, in V2. (You aren't missing out on anything by using V2)
 
----
+
 
 # CSAPI
 
@@ -224,7 +220,7 @@ The JSON is layed out like this: (example for an **Souvenir AWP | Dragon Lore (F
 }
 ```
 
----
+
 
 # V1
 
@@ -452,7 +448,7 @@ The JSON is layed out like this: (example for an **AWP | Dragon Lore**)
 }
 ```
 
----
+
 
 [^1]: vanilla knifes are classed as "Factory New"
 
