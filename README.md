@@ -1,3 +1,6 @@
+# CURRENTLY OUT OF DATE, I HAVENT ADDED ANY SKINS FROM THE ARMORY UPDATE ONWARDS
+# WILL UPDATE SOON (eventually)
+
 # JSON LINKS: [V2](https://raw.githubusercontent.com/qwkdev/csapi/main/data2.json), [V1](https://raw.githubusercontent.com/qwkdev/csapi/main/data.json)
 
 # V2 or V1?
